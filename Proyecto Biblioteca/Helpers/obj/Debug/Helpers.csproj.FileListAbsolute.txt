@@ -1,0 +1,33 @@
+D:\Usuario\TPNTest\Helpers\bin\Debug\Helpers.dll
+D:\Usuario\TPNTest\Helpers\bin\Debug\Helpers.pdb
+D:\Usuario\TPNTest\Helpers\obj\Debug\Helpers.dll
+D:\Usuario\TPNTest\Helpers\obj\Debug\Helpers.pdb
+H:\Usuario\Dropbox\Docs\ORT\ORT2014\CSHARP\Trabajos Pracicos\TPN02\Unzip\Helpers\bin\Debug\Helpers.dll
+H:\Usuario\Dropbox\Docs\ORT\ORT2014\CSHARP\Trabajos Pracicos\TPN02\Unzip\Helpers\bin\Debug\Helpers.pdb
+H:\Usuario\Dropbox\Docs\ORT\ORT2014\CSHARP\Trabajos Pracicos\TPN02\Unzip\Helpers\obj\Debug\Helpers.dll
+H:\Usuario\Dropbox\Docs\ORT\ORT2014\CSHARP\Trabajos Pracicos\TPN02\Unzip\Helpers\obj\Debug\Helpers.pdb
+H:\Usuario\Dropbox\Docs\ORT\ORT2014\CSHARP\Trabajos Pracicos\Helpers\bin\Debug\Helpers.dll
+H:\Usuario\Dropbox\Docs\ORT\ORT2014\CSHARP\Trabajos Pracicos\Helpers\bin\Debug\Helpers.pdb
+H:\Usuario\Dropbox\Docs\ORT\ORT2014\CSHARP\Trabajos Pracicos\Helpers\obj\Debug\Helpers.dll
+H:\Usuario\Dropbox\Docs\ORT\ORT2014\CSHARP\Trabajos Pracicos\Helpers\obj\Debug\Helpers.pdb
+D:\Usuario\Dropbox\Docs\ORT\ORT2014\CSHARP\Trabajos Pracicos\Helpers\bin\Debug\Helpers.dll
+D:\Usuario\Dropbox\Docs\ORT\ORT2014\CSHARP\Trabajos Pracicos\Helpers\bin\Debug\Helpers.pdb
+D:\Usuario\Dropbox\Docs\ORT\ORT2014\CSHARP\Trabajos Pracicos\Helpers\obj\Debug\Helpers.dll
+D:\Usuario\Dropbox\Docs\ORT\ORT2014\CSHARP\Trabajos Pracicos\Helpers\obj\Debug\Helpers.pdb
+F:\Evauacion\Helpers\bin\Debug\Helpers.dll
+F:\Evauacion\Helpers\bin\Debug\Helpers.pdb
+F:\Evauacion\Helpers\obj\Debug\Helpers.dll
+F:\Evauacion\Helpers\obj\Debug\Helpers.pdb
+H:\Usuario\Dropbox\Docs\ORT\ORT2014\CSHARP\Trabajos Pracicos\Evaluacion 2\Evauacion\Helpers\bin\Debug\Helpers.dll
+H:\Usuario\Dropbox\Docs\ORT\ORT2014\CSHARP\Trabajos Pracicos\Evaluacion 2\Evauacion\Helpers\bin\Debug\Helpers.pdb
+H:\Usuario\Dropbox\Docs\ORT\ORT2014\CSHARP\Trabajos Pracicos\Evaluacion 2\Evauacion\Helpers\obj\Debug\Helpers.dll
+H:\Usuario\Dropbox\Docs\ORT\ORT2014\CSHARP\Trabajos Pracicos\Evaluacion 2\Evauacion\Helpers\obj\Debug\Helpers.pdb
+Z:\Proyecto\Helpers\bin\Debug\Helpers.dll
+Z:\Proyecto\Helpers\bin\Debug\Helpers.pdb
+Z:\Proyecto\Helpers\obj\Debug\Helpers.dll
+Z:\Proyecto\Helpers\obj\Debug\Helpers.pdb
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\Helpers\bin\Debug\Helpers.dll
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\Helpers\bin\Debug\Helpers.pdb
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\Helpers\obj\Debug\Helpers.dll
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\Helpers\obj\Debug\Helpers.pdb

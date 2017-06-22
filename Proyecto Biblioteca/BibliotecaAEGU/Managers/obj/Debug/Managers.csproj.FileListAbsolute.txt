@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\Managers\bin\Debug\Managers.dll
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\Managers\bin\Debug\Managers.pdb
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\Managers\bin\Debug\Helpers.dll
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\Managers\bin\Debug\Helpers.pdb
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\Managers\obj\Debug\Managers.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\Managers\obj\Debug\Managers.dll
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\Managers\obj\Debug\Managers.pdb
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\Managers\bin\Debug\Managers.dll.config

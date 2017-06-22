@@ -1,0 +1,26 @@
+C:\Users\Usuario\Desktop\BibliotecaAEGU\BibliotecaAEGU\bin\Debug\BibliotecaAEGU.exe.config
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\bin\Debug\BibliotecaAEGU.exe.config
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\bin\Debug\BibliotecaAEGU.exe
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\bin\Debug\BibliotecaAEGU.pdb
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.exe
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.pdb
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\bin\Debug\Managers.dll
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\bin\Debug\Helpers.dll
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\bin\Debug\Managers.pdb
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\bin\Debug\Helpers.pdb
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.NuevaCategoria.resources
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.NuevoLibro.resources
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.Inicio.resources
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.DetalleLibro.resources
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.NuevoAutor.resources
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.DetalleCategoria.resources
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.NuevaEditorial.resources
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.EditarLibro.resources
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.DetalleAutor.resources
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.DetalleEditorial.resources
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.Agregar.resources
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.QueHacer.resources
+C:\Users\Usuario\Desktop\Proyecto Biblioteca\BibliotecaAEGU\BibliotecaAEGU\obj\Debug\BibliotecaAEGU.Buscador.resources

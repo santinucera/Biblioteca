@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3B2FCF9F-1788-408C-AD9F-17FE645671A3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BibliotecaAEGU</RootNamespace>
+    <AssemblyName>BibliotecaAEGU</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Agregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregar.Designer.cs">
+      <DependentUpon>Agregar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buscador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buscador.Designer.cs">
+      <DependentUpon>Buscador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetalleAutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetalleAutor.Designer.cs">
+      <DependentUpon>DetalleAutor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetalleCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetalleCategoria.Designer.cs">
+      <DependentUpon>DetalleCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetalleEditorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetalleEditorial.Designer.cs">
+      <DependentUpon>DetalleEditorial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetalleLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetalleLibro.Designer.cs">
+      <DependentUpon>DetalleLibro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarLibro.Designer.cs">
+      <DependentUpon>EditarLibro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevaCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevaCategoria.Designer.cs">
+      <DependentUpon>NuevaCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevaEditorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevaEditorial.Designer.cs">
+      <DependentUpon>NuevaEditorial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoAutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoAutor.Designer.cs">
+      <DependentUpon>NuevoAutor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoLibro.Designer.cs">
+      <DependentUpon>NuevoLibro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QueHacer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QueHacer.Designer.cs">
+      <DependentUpon>QueHacer.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Agregar.resx">
+      <DependentUpon>Agregar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buscador.resx">
+      <DependentUpon>Buscador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetalleAutor.resx">
+      <DependentUpon>DetalleAutor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetalleCategoria.resx">
+      <DependentUpon>DetalleCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetalleEditorial.resx">
+      <DependentUpon>DetalleEditorial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetalleLibro.resx">
+      <DependentUpon>DetalleLibro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarLibro.resx">
+      <DependentUpon>EditarLibro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevaCategoria.resx">
+      <DependentUpon>NuevaCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevaEditorial.resx">
+      <DependentUpon>NuevaEditorial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoAutor.resx">
+      <DependentUpon>NuevoAutor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoLibro.resx">
+      <DependentUpon>NuevoLibro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="QueHacer.resx">
+      <DependentUpon>QueHacer.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Managers\Managers.csproj">
+      <Project>{638434d2-a9a4-457c-98ea-8491740b227c}</Project>
+      <Name>Managers</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4524121-antiguo-libro-abierto-con-letra-cursiva-o-folio-manuscrito-antiguo-ilustracion-vectorial.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EditorialJan17Web.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\categoria.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\author-clipart-author-clipart-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoBig.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
