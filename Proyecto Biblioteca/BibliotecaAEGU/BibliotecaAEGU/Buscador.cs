@@ -71,7 +71,7 @@ namespace BibliotecaAEGU
         private void dgvLibros_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             int? fila = dgvLibros.CurrentCell.RowIndex;
-            if (fila!=null)
+            try
             {
                 DetalleLibro formulario = new DetalleLibro();
                 formulario.codigo = dgvLibros.Rows[fila.Value].Cells[0].Value.ToString();
@@ -80,7 +80,10 @@ namespace BibliotecaAEGU
                 formulario.pila = pila;
                 Funciones.cambiarFormA(this, formulario);
             }
-            
+            catch (NullReferenceException ex)
+            {
+                
+            }            
         }
 
         private void btnVolver_Click(object sender, EventArgs e)

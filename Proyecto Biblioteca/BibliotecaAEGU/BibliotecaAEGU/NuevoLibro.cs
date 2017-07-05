@@ -122,14 +122,7 @@ namespace BibliotecaAEGU
                         lblErrorPaginas.Visible = true;
                     }
                 }
-
-                
-
-                
-
             }
-
-
 
         }
 

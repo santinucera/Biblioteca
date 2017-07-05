@@ -50,6 +50,10 @@
             this.btnVolver = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.lblErrorTitulo = new System.Windows.Forms.Label();
+            this.lblErrorPaginas = new System.Windows.Forms.Label();
+            this.lblErrorAnio = new System.Windows.Forms.Label();
+            this.lblErrorDescripcion = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.picLibro)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -218,9 +222,9 @@
             // 
             this.btnGuardar.BackColor = System.Drawing.Color.SandyBrown;
             this.btnGuardar.Font = new System.Drawing.Font("Cambria", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnGuardar.Location = new System.Drawing.Point(435, 398);
+            this.btnGuardar.Location = new System.Drawing.Point(401, 398);
             this.btnGuardar.Name = "btnGuardar";
-            this.btnGuardar.Size = new System.Drawing.Size(116, 23);
+            this.btnGuardar.Size = new System.Drawing.Size(150, 30);
             this.btnGuardar.TabIndex = 21;
             this.btnGuardar.Text = "Guardar cambios";
             this.btnGuardar.UseVisualStyleBackColor = false;
@@ -260,12 +264,56 @@
             this.pictureBox1.TabIndex = 24;
             this.pictureBox1.TabStop = false;
             // 
+            // lblErrorTitulo
+            // 
+            this.lblErrorTitulo.AutoSize = true;
+            this.lblErrorTitulo.ForeColor = System.Drawing.Color.Red;
+            this.lblErrorTitulo.Location = new System.Drawing.Point(563, 46);
+            this.lblErrorTitulo.Name = "lblErrorTitulo";
+            this.lblErrorTitulo.Size = new System.Drawing.Size(65, 13);
+            this.lblErrorTitulo.TabIndex = 25;
+            this.lblErrorTitulo.Text = "lblErrorTitulo";
+            // 
+            // lblErrorPaginas
+            // 
+            this.lblErrorPaginas.AutoSize = true;
+            this.lblErrorPaginas.ForeColor = System.Drawing.Color.Red;
+            this.lblErrorPaginas.Location = new System.Drawing.Point(563, 219);
+            this.lblErrorPaginas.Name = "lblErrorPaginas";
+            this.lblErrorPaginas.Size = new System.Drawing.Size(65, 13);
+            this.lblErrorPaginas.TabIndex = 25;
+            this.lblErrorPaginas.Text = "lblErrorTitulo";
+            // 
+            // lblErrorAnio
+            // 
+            this.lblErrorAnio.AutoSize = true;
+            this.lblErrorAnio.ForeColor = System.Drawing.Color.Red;
+            this.lblErrorAnio.Location = new System.Drawing.Point(563, 262);
+            this.lblErrorAnio.Name = "lblErrorAnio";
+            this.lblErrorAnio.Size = new System.Drawing.Size(65, 13);
+            this.lblErrorAnio.TabIndex = 25;
+            this.lblErrorAnio.Text = "lblErrorTitulo";
+            // 
+            // lblErrorDescripcion
+            // 
+            this.lblErrorDescripcion.AutoSize = true;
+            this.lblErrorDescripcion.ForeColor = System.Drawing.Color.Red;
+            this.lblErrorDescripcion.Location = new System.Drawing.Point(563, 316);
+            this.lblErrorDescripcion.Name = "lblErrorDescripcion";
+            this.lblErrorDescripcion.Size = new System.Drawing.Size(65, 13);
+            this.lblErrorDescripcion.TabIndex = 25;
+            this.lblErrorDescripcion.Text = "lblErrorTitulo";
+            // 
             // EditarLibro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.PapayaWhip;
-            this.ClientSize = new System.Drawing.Size(609, 480);
+            this.ClientSize = new System.Drawing.Size(700, 480);
+            this.Controls.Add(this.lblErrorDescripcion);
+            this.Controls.Add(this.lblErrorAnio);
+            this.Controls.Add(this.lblErrorPaginas);
+            this.Controls.Add(this.lblErrorTitulo);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btnVolver);
@@ -321,5 +369,9 @@
         private System.Windows.Forms.Button btnVolver;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label lblErrorTitulo;
+        private System.Windows.Forms.Label lblErrorPaginas;
+        private System.Windows.Forms.Label lblErrorAnio;
+        private System.Windows.Forms.Label lblErrorDescripcion;
     }
 }
